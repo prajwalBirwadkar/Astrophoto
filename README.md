@@ -1,7 +1,9 @@
 # Astrophoto
 
-https://prajwalbirwadkar.github.io/Astrophoto/
+https://prajwalbirwadkar.github.io/Astrophoto/ 
+
 OR
+
 https://black-sand-061c7a010.2.azurestaticapps.net
 
 ![Screenshot 2022-10-22 040910](https://user-images.githubusercontent.com/92249528/197299458-1790c028-7682-42a5-a8c9-ec2f65e29f2b.png)
